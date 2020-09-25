@@ -1,1 +1,1 @@
-# tideman
+#CS50 problem solution
